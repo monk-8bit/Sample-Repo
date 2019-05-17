@@ -1,3 +1,7 @@
+import requests
+
 print('Hello VENV')
 
-inp = input('Can RUN take inputs?')
+req = requests.get("https://google.com")
+print(req.status_code)
+print(req.ok)
