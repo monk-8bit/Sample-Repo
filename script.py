@@ -1,1 +1,1 @@
-print('Git omfg just work man.')
+print('For the love of Foooken God Git!!!!.')
